@@ -36,3 +36,15 @@ password : secret
 
 email : admin.malik@mail.com
 password : secret
+
+## Project Spesifikasi
+
+Framework : Laravel 10.26.2
+
+PHP Version : 8.2.4
+
+MariaDB Version : 10.4.28
+
+Node JS Version : 16.16.0
+
+Vue JS Version : 3.2.41
